@@ -1,0 +1,11 @@
+4
+Wooden Bow
+bow
+3
+5
+nature
+0
+0
+1
+Ranger
+A handmade wooden bow of average quality.

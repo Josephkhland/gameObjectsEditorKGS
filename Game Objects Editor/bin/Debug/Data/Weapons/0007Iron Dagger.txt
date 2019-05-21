@@ -1,0 +1,11 @@
+7
+Iron Dagger
+dagger
+3
+1
+wind
+1
+3
+1
+Rogue
+A common mass produced Iron Dagger.

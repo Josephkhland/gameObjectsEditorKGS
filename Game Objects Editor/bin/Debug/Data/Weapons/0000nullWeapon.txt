@@ -1,0 +1,11 @@
+0000
+nullWeapon
+dagger
+1
+1
+harmony
+0
+0
+1
+Villain
+The Null_Weapon

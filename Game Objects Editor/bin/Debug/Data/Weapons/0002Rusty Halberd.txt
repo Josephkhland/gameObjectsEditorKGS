@@ -1,0 +1,11 @@
+2
+Rusty Halberd
+halberd
+4
+2
+ice
+0
+0
+1
+Tank
+An old and rusty halberd.

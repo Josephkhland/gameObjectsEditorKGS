@@ -1,0 +1,11 @@
+1
+Iron Sword
+longsword
+5
+1
+fire
+0
+0
+1
+Fighter
+Your common mass produced Iron Sword. There is nothing special about it.
